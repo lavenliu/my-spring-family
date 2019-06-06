@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleJdbcDemoApplication",
+            "request": "launch",
+            "mainClass": "cn.lavenliu.simplejdbcdemo.SimpleJdbcDemoApplication",
+            "projectName": "simple-jdbc-demo"
+        }
+    ]
+}
