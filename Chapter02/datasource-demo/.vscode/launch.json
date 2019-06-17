@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataSourceDemoApplication",
+            "request": "launch",
+            "mainClass": "cn.lavenliu.datasource.DataSourceDemoApplication",
+            "projectName": "datasource-jdbc-demo"
+        }
+    ]
+}
